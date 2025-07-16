@@ -19,7 +19,7 @@ A fun little turtle race game where you can bet on your turtle made using the `t
 
 ## 🎮 Preview
 
-![Turtle Race Game Demo](demo.gif)
+![Turtle Race Game Demo](demo.mp4)
 
 Place your bet, watch the turtles go, and see who wins the race!
 
