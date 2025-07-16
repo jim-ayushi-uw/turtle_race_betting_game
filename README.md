@@ -17,7 +17,11 @@ A fun little turtle race game where you can bet on your turtle made using the `t
 - Random movement logic
 - On-screen winner announcement
 
-## 📷 Preview
-(Insert a screenshot or screen recording if you want)
+## 🎮 Preview
+
+![Turtle Race Game Demo](demo.gif)
+
+Place your bet, watch the turtles go, and see who wins the race!
+
 
 
